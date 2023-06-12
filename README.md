@@ -1,4 +1,5 @@
-#MONSTER GAME
+# MONSTER GAME
+
 In project 5, I gained experience and enhanced my skills in various areas of programming. 
 
 I worked with classes which includes working with class constructors to initialize objects and implementing methods to define the behavior of those objects. In this project I was able to deepen my understanding of code modules, practiced the usage and explored the benefits in code organization and reusability.
